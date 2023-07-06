@@ -1,2 +1,0 @@
-# SOLIDWORKS
-Solidworks projects 
